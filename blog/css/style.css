@@ -118,7 +118,6 @@ h1 {
     background-color:#5E6D8C;
     box-shadow: 5px 5px 4px -1px rgb(122, 120, 120);
     text-shadow:3px 0 0 black, 0px 0 0 black, 0px 0 0 black, 3px 0 0 black;
-
 }
  
 /* - General Setup and Defualts- */
@@ -141,6 +140,14 @@ body {
 
 header {
     padding: 0.5rem 0rem 1rem 0rem;
+}
+
+footer {
+    text-align:right;
+}
+
+.copyright {
+    float:left;
 }
 
 nav {
@@ -251,3 +258,5 @@ button {
     box-shadow: 5px 5px 4px -1px rgb(122, 120, 120);
     text-shadow:2px 0 0 black, 0px 0 0 black, 0px 0 0 black, 2px 0 0 black;
 }
+
+
